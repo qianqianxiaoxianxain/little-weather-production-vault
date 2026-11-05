@@ -1,0 +1,222 @@
+[
+  {
+    "shot": "01_SHOT_01_周一清晨书桌晨光与静默铁盒",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "103.1",
+      "frame_diff": "12.58"
+    }
+  },
+  {
+    "shot": "02_SHOT_02_校服阿宁轻敲铁盒道别上学",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "121.3",
+      "frame_diff": "27.83"
+    }
+  },
+  {
+    "shot": "03_SHOT_03_可可揉脸垮塌假装坚强",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "159.5",
+      "frame_diff": "10.05"
+    }
+  },
+  {
+    "shot": "04_SHOT_04_阿宁摆放水汽杯与小圆镜",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "124.3",
+      "frame_diff": "29.63"
+    }
+  },
+  {
+    "shot": "05_SHOT_05_阿宁背书包关门远去脚步声",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "156.3",
+      "frame_diff": "46.38"
+    }
+  },
+  {
+    "shot": "06_SHOT_06_小圆镜倒影葡萄架与突现橘影",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "133.8",
+      "frame_diff": "14.93"
+    }
+  },
+  {
+    "shot": "07_SHOT_07_大橘猫大福窗台巡逻凝视屋内",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "109.4",
+      "frame_diff": "33.71"
+    }
+  },
+  {
+    "shot": "08_SHOT_08_可可镜中见巨猫吓缩铁盒沿后",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "154.6",
+      "frame_diff": "26.11"
+    }
+  },
+  {
+    "shot": "09_SHOT_09_大福爪拍窗玻璃隔空对峙",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "117.4",
+      "frame_diff": "11.00"
+    }
+  },
+  {
+    "shot": "10_SHOT_10_可可受惊转怒头顶浮现小乌云",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "102.5",
+      "frame_diff": "15.68"
+    }
+  },
+  {
+    "shot": "11_SHOT_11_微弱紫静电打窗大福警惕后退",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "121.5",
+      "frame_diff": "16.06"
+    }
+  },
+  {
+    "shot": "12_SHOT_12_大福转身离去可可骄傲挺胸",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "110.9",
+      "frame_diff": "33.43"
+    }
+  },
+  {
+    "shot": "13_SHOT_13_书桌底下低沉滚轮与边刷探进",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "122.8",
+      "frame_diff": "6.27"
+    }
+  },
+  {
+    "shot": "14_SHOT_14_黑色扫地机沿墙徐行逼近桌腿",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "103.2",
+      "frame_diff": "50.49"
+    }
+  },
+  {
+    "shot": "15_SHOT_15_可可误认黑盘怪兽跳地抗议",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "121.4",
+      "frame_diff": "32.75"
+    }
+  },
+  {
+    "shot": "16_SHOT_16_扫地机撞桌腿转向排风扰动方巾",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "121.2",
+      "frame_diff": "15.98"
+    }
+  },
+  {
+    "shot": "17_SHOT_17_可可鼓腮喷白雾致扫地机停摆",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "101.4",
+      "frame_diff": "36.00"
+    }
+  },
+  {
+    "shot": "18_SHOT_18_可可背手昂头俯瞰停摆扫地机",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "104.0",
+      "frame_diff": "8.31"
+    }
+  },
+  {
+    "shot": "19_SHOT_19_下午放学脚步与阿宁开门呼唤",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "108.5",
+      "frame_diff": "5.97"
+    }
+  },
+  {
+    "shot": "20_SHOT_20_阿宁俯身抚慰可可委屈化作依偎",
+    "passed": true,
+    "reasons": [],
+    "metrics": {
+      "resolution": "832x480",
+      "duration": "5.17s",
+      "mean_brightness": "121.7",
+      "frame_diff": "26.87"
+    }
+  }
+]

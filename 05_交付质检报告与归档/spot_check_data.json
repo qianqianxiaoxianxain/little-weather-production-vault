@@ -1,0 +1,272 @@
+[
+  {
+    "tag": "EP06_SHOT_02",
+    "ep_dir": "S01E06_大橘猫的窗台视察与扫地机大战",
+    "file_name": "02_SHOT_02_校服阿宁轻敲铁盒道别上学.mp4",
+    "file_path": "C:\\Users\\32503\\Desktop\\小天气\\S01E06_大橘猫的窗台视察与扫地机大战\\01_原画分镜\\02_SHOT_02_校服阿宁轻敲铁盒道别上学.mp4",
+    "focus": "主角阿宁（蓝白校服+粉书包）与可可、中文人话对白《我要上学啦！》、敲击铁盒音效",
+    "size_mb": "0.81 MB",
+    "duration": "5.17s",
+    "resolution": "832x480",
+    "fps": "24/1",
+    "video_codec": "h264",
+    "total_frames": 124,
+    "total_bitrate": "1313 kbps",
+    "audio_codec": "aac",
+    "audio_sr": "32000 Hz",
+    "audio_channels": 2,
+    "mean_volume": "-37.6 dB",
+    "max_volume": "-17.5 dB",
+    "frames": [
+      {
+        "name": "start",
+        "sec": 0.7750499999999999,
+        "file": "spotcheck_EP06_SHOT_02_start.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_02_start.jpg"
+      },
+      {
+        "name": "action1",
+        "sec": 2.0,
+        "file": "spotcheck_EP06_SHOT_02_action1.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_02_action1.jpg"
+      },
+      {
+        "name": "action2",
+        "sec": 3.5,
+        "file": "spotcheck_EP06_SHOT_02_action2.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_02_action2.jpg"
+      },
+      {
+        "name": "end",
+        "sec": 4.667,
+        "file": "spotcheck_EP06_SHOT_02_end.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_02_end.jpg"
+      }
+    ]
+  },
+  {
+    "tag": "EP06_SHOT_07",
+    "ep_dir": "S01E06_大橘猫的窗台视察与扫地机大战",
+    "file_name": "07_SHOT_07_大橘猫大福窗台巡逻凝视屋内.mp4",
+    "file_path": "C:\\Users\\32503\\Desktop\\小天气\\S01E06_大橘猫的窗台视察与扫地机大战\\01_原画分镜\\07_SHOT_07_大橘猫大福窗台巡逻凝视屋内.mp4",
+    "focus": "邻居大橘猫“大福”立绘还原度、猫毛与胡须质感、窗台脚步与环境音",
+    "size_mb": "0.79 MB",
+    "duration": "5.17s",
+    "resolution": "832x480",
+    "fps": "24/1",
+    "video_codec": "h264",
+    "total_frames": 124,
+    "total_bitrate": "1283 kbps",
+    "audio_codec": "aac",
+    "audio_sr": "32000 Hz",
+    "audio_channels": 2,
+    "mean_volume": "-42.8 dB",
+    "max_volume": "-21.4 dB",
+    "frames": [
+      {
+        "name": "start",
+        "sec": 0.7750499999999999,
+        "file": "spotcheck_EP06_SHOT_07_start.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_07_start.jpg"
+      },
+      {
+        "name": "action1",
+        "sec": 2.0,
+        "file": "spotcheck_EP06_SHOT_07_action1.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_07_action1.jpg"
+      },
+      {
+        "name": "action2",
+        "sec": 3.5,
+        "file": "spotcheck_EP06_SHOT_07_action2.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_07_action2.jpg"
+      },
+      {
+        "name": "end",
+        "sec": 4.667,
+        "file": "spotcheck_EP06_SHOT_07_end.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_07_end.jpg"
+      }
+    ]
+  },
+  {
+    "tag": "EP06_SHOT_11",
+    "ep_dir": "S01E06_大橘猫的窗台视察与扫地机大战",
+    "file_name": "11_SHOT_11_微弱紫静电打窗大福警惕后退.mp4",
+    "file_path": "C:\\Users\\32503\\Desktop\\小天气\\S01E06_大橘猫的窗台视察与扫地机大战\\01_原画分镜\\11_SHOT_11_微弱紫静电打窗大福警惕后退.mp4",
+    "focus": "天气魔法视觉特效（紫色微静电火花打窗）、大福胡须炸毛惊退喜剧物理反应",
+    "size_mb": "0.70 MB",
+    "duration": "5.17s",
+    "resolution": "832x480",
+    "fps": "24/1",
+    "video_codec": "h264",
+    "total_frames": 124,
+    "total_bitrate": "1135 kbps",
+    "audio_codec": "aac",
+    "audio_sr": "32000 Hz",
+    "audio_channels": 2,
+    "mean_volume": "-33.6 dB",
+    "max_volume": "-11.9 dB",
+    "frames": [
+      {
+        "name": "start",
+        "sec": 0.7750499999999999,
+        "file": "spotcheck_EP06_SHOT_11_start.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_11_start.jpg"
+      },
+      {
+        "name": "action1",
+        "sec": 2.0,
+        "file": "spotcheck_EP06_SHOT_11_action1.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_11_action1.jpg"
+      },
+      {
+        "name": "action2",
+        "sec": 3.5,
+        "file": "spotcheck_EP06_SHOT_11_action2.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_11_action2.jpg"
+      },
+      {
+        "name": "end",
+        "sec": 4.667,
+        "file": "spotcheck_EP06_SHOT_11_end.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_11_end.jpg"
+      }
+    ]
+  },
+  {
+    "tag": "EP06_SHOT_17",
+    "ep_dir": "S01E06_大橘猫的窗台视察与扫地机大战",
+    "file_name": "17_SHOT_17_可可鼓腮喷白雾致扫地机停摆.mp4",
+    "file_path": "C:\\Users\\32503\\Desktop\\小天气\\S01E06_大橘猫的窗台视察与扫地机大战\\01_原画分镜\\17_SHOT_17_可可鼓腮喷白雾致扫地机停摆.mp4",
+    "focus": "天气水汽特效（可可鼓腮喷云吐雾）、黑色扫地机器人机械结构与电机减速停摆",
+    "size_mb": "0.49 MB",
+    "duration": "5.17s",
+    "resolution": "832x480",
+    "fps": "24/1",
+    "video_codec": "h264",
+    "total_frames": 124,
+    "total_bitrate": "793 kbps",
+    "audio_codec": "aac",
+    "audio_sr": "32000 Hz",
+    "audio_channels": 2,
+    "mean_volume": "-39.2 dB",
+    "max_volume": "-18.8 dB",
+    "frames": [
+      {
+        "name": "start",
+        "sec": 0.7750499999999999,
+        "file": "spotcheck_EP06_SHOT_17_start.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_17_start.jpg"
+      },
+      {
+        "name": "action1",
+        "sec": 2.0,
+        "file": "spotcheck_EP06_SHOT_17_action1.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_17_action1.jpg"
+      },
+      {
+        "name": "action2",
+        "sec": 3.5,
+        "file": "spotcheck_EP06_SHOT_17_action2.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_17_action2.jpg"
+      },
+      {
+        "name": "end",
+        "sec": 4.667,
+        "file": "spotcheck_EP06_SHOT_17_end.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP06_SHOT_17_end.jpg"
+      }
+    ]
+  },
+  {
+    "tag": "EP02_SHOT_02",
+    "ep_dir": "S01E02_口算题卡上的小晴天",
+    "file_name": "02_SHOT_02_妈妈的疑惑.mp4",
+    "file_path": "C:\\Users\\32503\\Desktop\\小天气\\S01E02_口算题卡上的小晴天\\01_原画分镜\\02_SHOT_02_妈妈的疑惑.mp4",
+    "focus": "母亲官方立绘一致性、日常家居服、母女互动温润室内光影",
+    "size_mb": "0.50 MB",
+    "duration": "5.17s",
+    "resolution": "832x480",
+    "fps": "24/1",
+    "video_codec": "h264",
+    "total_frames": 124,
+    "total_bitrate": "816 kbps",
+    "audio_codec": "aac",
+    "audio_sr": "32000 Hz",
+    "audio_channels": 2,
+    "mean_volume": "-41.7 dB",
+    "max_volume": "-24.0 dB",
+    "frames": [
+      {
+        "name": "start",
+        "sec": 0.7750499999999999,
+        "file": "spotcheck_EP02_SHOT_02_start.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP02_SHOT_02_start.jpg"
+      },
+      {
+        "name": "action1",
+        "sec": 2.0,
+        "file": "spotcheck_EP02_SHOT_02_action1.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP02_SHOT_02_action1.jpg"
+      },
+      {
+        "name": "action2",
+        "sec": 3.5,
+        "file": "spotcheck_EP02_SHOT_02_action2.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP02_SHOT_02_action2.jpg"
+      },
+      {
+        "name": "end",
+        "sec": 4.667,
+        "file": "spotcheck_EP02_SHOT_02_end.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP02_SHOT_02_end.jpg"
+      }
+    ]
+  },
+  {
+    "tag": "EP05_SHOT_05",
+    "ep_dir": "S01E05_胡椒味的小雷嗝与留守契约",
+    "file_name": "05_SHOT_05_爸爸转动胡椒研磨器.mp4",
+    "file_path": "C:\\Users\\32503\\Desktop\\小天气\\S01E05_胡椒味的小雷嗝与留守契约\\01_原画分镜\\05_SHOT_05_爸爸转动胡椒研磨器.mp4",
+    "focus": "父亲官方立绘一致性、餐桌厨房道具研磨器动作、纯正物理 ASMR 拟音",
+    "size_mb": "0.64 MB",
+    "duration": "5.17s",
+    "resolution": "832x480",
+    "fps": "24/1",
+    "video_codec": "h264",
+    "total_frames": 124,
+    "total_bitrate": "1035 kbps",
+    "audio_codec": "aac",
+    "audio_sr": "32000 Hz",
+    "audio_channels": 2,
+    "mean_volume": "-31.3 dB",
+    "max_volume": "-2.4 dB",
+    "frames": [
+      {
+        "name": "start",
+        "sec": 0.7750499999999999,
+        "file": "spotcheck_EP05_SHOT_05_start.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP05_SHOT_05_start.jpg"
+      },
+      {
+        "name": "action1",
+        "sec": 2.0,
+        "file": "spotcheck_EP05_SHOT_05_action1.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP05_SHOT_05_action1.jpg"
+      },
+      {
+        "name": "action2",
+        "sec": 3.5,
+        "file": "spotcheck_EP05_SHOT_05_action2.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP05_SHOT_05_action2.jpg"
+      },
+      {
+        "name": "end",
+        "sec": 4.667,
+        "file": "spotcheck_EP05_SHOT_05_end.jpg",
+        "path": "C:\\Users\\32503\\.gemini\\antigravity\\brain\\d3fed41b-9cc3-4ee3-ac09-fc0a5539d441\\spotcheck_EP05_SHOT_05_end.jpg"
+      }
+    ]
+  }
+]
